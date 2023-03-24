@@ -9,7 +9,7 @@ CHANNELS = 2
 RATE = 122100 * 2
 
 # Define the pitch shift factor (1.0 means no shift, 2.0 means double the pitch)
-PITCH_SHIFT_FACTOR = 0.9
+PITCH_SHIFT_FACTOR = 0.97
 
 
 def main():
