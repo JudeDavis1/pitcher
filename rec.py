@@ -6,7 +6,7 @@ import numpy as np
 CHUNK_SIZE = 4096 * 10
 FMT = pyaudio.paInt32
 CHANNELS = 2
-RATE = 122100 * 2
+RATE = 122100
 
 # Define the pitch shift factor (1.0 means no shift, 2.0 means double the pitch)
 PITCH_SHIFT_FACTOR = 0.97
